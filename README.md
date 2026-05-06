@@ -42,6 +42,7 @@ This project helped me explore:
 src/
 ├── components/
 ├── hooks/
+├── pages/
 ├── types/
 ├── utils/
 ├── App.tsx
